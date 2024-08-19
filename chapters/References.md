@@ -22,6 +22,16 @@ UNDP. (2015). *Nepal Earthquake 2015: Recovery and Reconstruction*. United Natio
 
 World Bank. (2023). *Nepal Economic Overview*. World Bank.
 
----
+Central Bureau of Statistics. (2023). *Nepal Statistical Yearbook 2023*. Government of Nepal.
 
-Feel free to further refine or expand upon any sections as needed!
+Department of Foreign Employment. (2023). *Annual Report on Migration*. Government of Nepal.
+
+Investment Board Nepal. (2023). *Annual Report 2023*. Investment Board Nepal.
+
+Ministry of Commerce. (2023). *Trade Policy Review*. Government of Nepal.
+
+Nepal Garment Manufacturers Association. (2023). *Annual Report*. Nepal Garment Manufacturers Association.
+
+Nepal Rastra Bank. (2023). *Annual Report 2023*. Nepal Rastra Bank.
+
+Nepal Textile Association. (2023). *Market Analysis Report*. Nepal Textile Association.
