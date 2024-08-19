@@ -118,4 +118,26 @@ Unilever Nepal. (2023). *Sustainability and CSR Report*. Unilever Nepal.
 
 Green Energy Nepal. (2023). *Annual Report*. Green Energy Nepal.
 
+Amazon. (2023). *Annual Report*. Amazon.
+
+Alibaba. (2023). *Annual Report*. Alibaba.
+
+Belt and Road Initiative. (2023). *Annual Report*. Belt and Road Initiative.
+
+Google. (2023). *Annual Report*. Google.
+
+IMF. (2023). *Sri Lanka Economic Outlook*. International Monetary Fund.
+
+Microsoft. (2023). *Annual Report*. Microsoft.
+
+Nestlé. (2023). *Annual Report*. Nestlé.
+
+SAARC. (2023). *Annual Report*. South Asian Association for Regional Cooperation.
+
+Unilever. (2023). *Annual Report*. Unilever.
+
+WTO. (2023). *Trade Policy Review*. World Trade Organization.
+
+World Bank. (2023). *Melamchi Water Supply Project*. World Bank.
+
 
