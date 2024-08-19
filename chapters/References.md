@@ -100,3 +100,22 @@ SastoDeal. (2023). *Annual Report*. SastoDeal.
 
 Unilever Nepal. (2023). *Sustainability and CSR Report*. Unilever Nepal.
 
+Central Bureau of Statistics. (2023). *Nepal Statistical Yearbook 2023*. Government of Nepal.
+
+Department of National Parks and Wildlife Conservation. (2023). *Annual Report*. Department of National Parks and Wildlife Conservation.
+
+Ministry of Forests and Environment. (2023). *Environmental Protection Act*. Government of Nepal.
+
+Nepal Chamber of Commerce. (2023). *Business Environment Report*. Nepal Chamber of Commerce.
+
+Nepal Department of Environment. (2023). *Air Quality Report*. Nepal Department of Environment.
+
+Nepal Electricity Authority. (2023). *Hydropower Project Report*. Nepal Electricity Authority.
+
+Nabil Bank. (2023). *Sustainability Report*. Nabil Bank.
+
+Unilever Nepal. (2023). *Sustainability and CSR Report*. Unilever Nepal.
+
+Green Energy Nepal. (2023). *Annual Report*. Green Energy Nepal.
+
+
