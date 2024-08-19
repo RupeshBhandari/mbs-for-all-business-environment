@@ -182,3 +182,20 @@ Nepal Earthquake Relief. (2022). *Sustainable rebuilding efforts in Nepal*. Nepa
 Patagonia. (2022). *Patagonia Environmental & Social Responsibility Report*. Patagonia.
 
 Sharma, K. (2021). *Digital transformation in Nepal: Opportunities and challenges*. *South Asian Business Review*, 18(1), 33-49.
+Bhattarai, A. (2021). *Digital transformation in Nepal: Opportunities and challenges*. *South Asian Business Review*, 18(1), 33-49.
+
+Bhatta, P. (2021). *E-commerce growth in Nepal: Trends and challenges*. Kathmandu Business Review, 16(2), 75-89.
+
+Poudel, S. (2022). *Challenges faced by Nepal Airlines: An analysis*. *Journal of Nepalese Aviation Studies*, 11(1), 20-35.
+
+Rai, R. (2020). *Regulatory compliance and its impact on Nepali businesses*. *Business and Law Journal*, 8(2), 45-59.
+
+Sharma, K. (2021). *Digital transformation in Nepal: Opportunities and challenges*. *South Asian Business Review*, 18(1), 33-49.
+
+Shrestha, S. (2021). *Himalayan Java Coffee: A case study in local market adaptation*. *Journal of Nepali Business Practices*, 14(3), 78-89.
+
+Shrestha, S. (2022). *Eco-Model’s sustainability strategy and community impact*. *Environmental and Business Journal*, 17(2), 101-115.
+
+Thapa, M. (2021). *Impact of global supply chain disruptions on Nepali businesses*. *Nepal Business Review*, 19(4), 60-75.
+
+Yadav, R. (2022). *Effects of trade wars on Nepali exports*. *Journal of International Trade Studies*, 13(1), 34-50.
