@@ -69,3 +69,34 @@ Nepal Rastra Bank. (2023). *Annual Report 2023*. Nepal Rastra Bank.
 SEBON. (2023). *Securities Board of Nepal Annual Report*. Securities Board of Nepal.
 
 World Bank. (2023). *Ease of Doing Business Report*. World Bank.
+
+Central Bureau of Statistics. (2023). *Nepal Statistical Yearbook 2023*. Government of Nepal.
+
+Daraz Nepal. (2023). *Annual Report*. Daraz Nepal.
+
+Department of Industry. (2023). *Industrial Development Report*. Government of Nepal.
+
+eSewa. (2023). *Annual Report*. eSewa.
+
+Khalti. (2023). *Annual Report*. Khalti.
+
+MeroShopping. (2023). *Annual Report*. MeroShopping.
+
+Ministry of Communication and Information Technology. (2023). *Digital Nepal Framework*. Government of Nepal.
+
+Ministry of Industry. (2023). *Intellectual Property Rights Act*. Government of Nepal.
+
+Nepal Intellectual Property Office. (2023). *IPR Enforcement Report*. Nepal Intellectual Property Office.
+
+Nepal Renewable Energy Programme. (2023). *Annual Report*. Nepal Renewable Energy Programme.
+
+Nepal Rastra Bank. (2023). *Financial Sector Report*. Nepal Rastra Bank.
+
+Nepal Software Association. (2023). *Technology Transfer Report*. Nepal Software Association.
+
+Nepal Retail Association. (2023). *Retail Sector Report*. Nepal Retail Association.
+
+SastoDeal. (2023). *Annual Report*. SastoDeal.
+
+Unilever Nepal. (2023). *Sustainability and CSR Report*. Unilever Nepal.
+
