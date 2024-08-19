@@ -163,4 +163,22 @@ Ncell. (2023). *CSR and Sustainability Report*. Ncell.
 Standard Chartered. (2023). *CSR and Sustainability Report*. Standard Chartered Bank.
 
 Tourism Board. (2023). *Tourism Annual Report*. Nepal Tourism Board.
+Bhandari, R. (2022). *Impact of climate change on agriculture in Nepal*. Journal of Nepal Agricultural Sciences, 22(1), 45-59.
 
+Bhatta, P. (2021). *E-commerce growth in Nepal: Trends and challenges*. Kathmandu Business Review, 16(2), 75-89.
+
+Bhattarai, A. (2021). *Innovation in financial services: The case of eSewa in Nepal*. *Journal of Fintech Innovation*, 14(3), 112-127.
+
+Brynjolfsson, E., Horton, J. J., & Rand, W. (2020). *The effects of COVID-19 on business and the economy*. National Bureau of Economic Research.
+
+Isaacson, W. (2011). *Steve Jobs*. Simon & Schuster.
+
+Kumar, V., Ruan, Y., & Gupta, S. (2020). *AI and the future of business operations: Strategic insights*. *Journal of Business Research*, 108, 80-91.
+
+McGowan, J., & T. R. McGowan. (2020). *Economic impacts of the Australian bushfires on small businesses*. *Australian Journal of Environmental Management*, 27(4), 512-523.
+
+Nepal Earthquake Relief. (2022). *Sustainable rebuilding efforts in Nepal*. Nepal Earthquake Relief Annual Report.
+
+Patagonia. (2022). *Patagonia Environmental & Social Responsibility Report*. Patagonia.
+
+Sharma, K. (2021). *Digital transformation in Nepal: Opportunities and challenges*. *South Asian Business Review*, 18(1), 33-49.
