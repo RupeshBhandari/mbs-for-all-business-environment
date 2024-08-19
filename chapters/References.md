@@ -140,4 +140,27 @@ WTO. (2023). *Trade Policy Review*. World Trade Organization.
 
 World Bank. (2023). *Melamchi Water Supply Project*. World Bank.
 
+Cultural Affairs Department. (2023). *Annual Report*. Government of Nepal.
+
+Daraz. (2023). *Annual Report*. Daraz.
+
+eSewa. (2023). *Annual Report*. eSewa.
+
+Ministry of Commerce. (2023). *Nepal Trade Integration Strategy*. Government of Nepal.
+
+Ministry of Education. (2023). *Education Sector Analysis*. Government of Nepal.
+
+Nepal Energy Authority. (2023). *Renewable Energy Report*. Nepal Energy Authority.
+
+Nepal Infrastructure Development Authority. (2023). *Infrastructure Development Report*. Government of Nepal.
+
+Nepal Law Commission. (2023). *Companies Act 2006*. Government of Nepal.
+
+Nepal Ministry of Home Affairs. (2023). *Political Stability Report*. Government of Nepal.
+
+Ncell. (2023). *CSR and Sustainability Report*. Ncell.
+
+Standard Chartered. (2023). *CSR and Sustainability Report*. Standard Chartered Bank.
+
+Tourism Board. (2023). *Tourism Annual Report*. Nepal Tourism Board.
 
