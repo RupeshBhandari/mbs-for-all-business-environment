@@ -167,4 +167,62 @@ In 2023, the NRB raised interest rates to address inflation and stabilize the ec
 - The NRB increased its policy interest rate to 6.5% in 2023 (Nepal Rastra Bank, 2023).
 - Inflation in Nepal was approximately 6.2% in 2023 (Nepal Rastra Bank, 2023).
 
+## 2.6 Impact of Globalization on the Economic Environment
 
+Globalization has significantly influenced Nepal's economic environment by increasing integration with the global economy and impacting various sectors such as trade, investment, and labor markets. The effects of globalization are multifaceted, bringing both opportunities and challenges to Nepal.
+
+### 2.6.1 Trade and Economic Integration
+
+Globalization has opened up new markets for Nepali goods and services, enhancing trade opportunities. Nepal’s accession to the World Trade Organization (WTO) in 2004 marked a significant step towards global economic integration.
+
+#### Real-World Example
+
+The expansion of Nepal’s trade with countries like China and India demonstrates the positive impact of globalization. The trade agreements with these nations have facilitated the export of Nepali products, such as garments and handicrafts, to larger markets. For instance, the Nepal-China Trade Agreement has allowed Nepali goods to access the Chinese market with reduced tariffs (Ministry of Commerce, 2023).
+
+#### Statistics
+
+- Nepal's exports to China grew by approximately 30% between 2021 and 2023 (Central Bureau of Statistics, 2023).
+- The garment industry, which heavily benefits from global markets, contributed about NPR 50 billion to Nepal’s GDP in 2023 (Nepal Garment Manufacturers Association, 2023).
+
+### 2.6.2 Foreign Direct Investment (FDI)
+
+Globalization has increased the flow of Foreign Direct Investment (FDI) into Nepal, providing capital for development projects and infrastructure. This investment is crucial for economic growth and job creation.
+
+#### Real-World Example
+
+The growth of the hydropower sector in Nepal, driven by international investments, showcases globalization’s impact. Projects like the Upper Tamakoshi Hydropower Project involve foreign investors and contribute to enhancing the country’s energy infrastructure (Investment Board Nepal, 2023).
+
+#### Statistics
+
+- FDI inflows into Nepal reached approximately NPR 70 billion in 2023, with significant contributions from sectors such as energy and tourism (Nepal Rastra Bank, 2023).
+- The Upper Tamakoshi Project, with an investment of NPR 33 billion, is a major example of foreign involvement (Investment Board Nepal, 2023).
+
+### 2.6.3 Labor Migration and Remittances
+
+Globalization has facilitated labor migration, with many Nepali workers seeking employment abroad. The remittances sent back home are a vital component of Nepal’s economy, supporting household incomes and economic stability.
+
+#### Real-World Example
+
+Nepali labor migration to countries like Qatar and the United Arab Emirates has led to substantial remittance inflows. These remittances are crucial for many families and contribute significantly to the country’s GDP (Nepal Rastra Bank, 2023).
+
+#### Statistics
+
+- In 2023, remittances amounted to approximately 24% of Nepal’s GDP (Nepal Rastra Bank, 2023).
+- The number of Nepali migrant workers abroad was estimated at over 4 million in 2023 (Department of Foreign Employment, 2023).
+
+### 2.6.4 Challenges and Risks
+
+While globalization offers economic benefits, it also presents challenges. These include increased competition, exposure to global economic fluctuations, and potential negative impacts on local industries and culture.
+
+#### Real-World Example
+
+The influx of cheap imported goods due to trade liberalization has sometimes undermined local industries, such as small-scale manufacturers in Nepal. This can lead to job losses and economic displacement within affected sectors (Nepal Chamber of Commerce, 2023).
+
+#### Statistics
+
+- The local textile industry faced a 15% decline in market share due to competition from imported garments in 2023 (Nepal Textile Association, 2023).
+- Economic fluctuations in global markets have contributed to Nepal's trade deficit, which was NPR 1 trillion in 2023 (Ministry of Commerce, 2023).
+
+### Conclusion
+
+Globalization has a profound impact on Nepal's economic environment, bringing both opportunities and challenges. While it enhances trade, investment, and labor migration, it also poses risks to local industries and economic stability. Balancing these effects is crucial for leveraging globalization's benefits while mitigating its challenges.
