@@ -48,6 +48,18 @@ Ministry of Finance. (2006). *Companies Act, 2006*. Government of Nepal.
 
 Ministry of Finance. (2016). *Industrial Enterprises Act, 2016*. Government of Nepal.
 
+Central Bureau of Statistics. (2023). *Nepal Statistical Yearbook 2023*. Government of Nepal.
+
+Dabur Nepal. (2023). *CSR Initiatives Annual Report*. Dabur Nepal.
+
+Nepal Chamber of Commerce. (2023). *Business Environment Report*. Nepal Chamber of Commerce.
+
+Nepal Garment Manufacturers Association. (2023). *Annual Report*. Nepal Garment Manufacturers Association.
+
+Nepal Retail Association. (2023). *Retail Sector Report*. Nepal Retail Association.
+
+Unilever Nepal. (2023). *Sustainability and CSR Report*. Unilever Nepal.
+
 Ministry of Finance. (2023). *Budget Statement 2023*. Government of Nepal.
 
 Ministry of Commerce. (2023). *Trade Policy Review*. Government of Nepal.
